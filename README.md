@@ -80,6 +80,7 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 - [Python](https://www.python.org/)
 - [Pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 - [NumPy - package for scientific computing with Python](https://numpy.org/)
+- [Project Jupyter](https://jupyter.org/)
 - [R Language](https://www.r-project.org/)
 - [R Studio](https://www.rstudio.com/)
 - [Git](https://git-scm.com/)
