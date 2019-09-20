@@ -1,6 +1,6 @@
 # My DataCamp Certifications
 
-This is a repository of the certifications files of the courses I made at [DataCamp](https://www.datacamp.com).
+This is a repository to show the certifications of the courses I made at [DataCamp](https://www.datacamp.com).
 
 I've subscribed for 3 months and **enjoyed the maximum I could**. Watching the videos and doing a lot of the exercises (some are very funny, I have to say).
 
