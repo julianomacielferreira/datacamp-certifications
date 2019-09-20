@@ -6,7 +6,7 @@ I've subscribed for 3 months and **enjoyed the maximum I could**. Watching the v
 
 My DataCamp profile link is [https://www.datacamp.com/profile/julianomacielferreira](https://www.datacamp.com/profile/julianomacielferreira)
 
-**In this moment I'm not working professionally as a Data-\*[Analyst, Engineer or Sciencist]** or using all the knowledge and tools I learn from them, but I highly recommend people make a subscription and give a try. They have real chagellenges exercises and projects with a strong pedagogy and best learn practices.
+**In this moment I'm not working professionally as a Data-\*[Analyst, Engineer, Sciencist]** or using all the knowledge and tools I've learned from them, but I highly recommend people make a subscription and give a try. They have real chagellenges exercises and projects with a strong pedagogy and best learn practices.
 
 If you are a very curious person like me, I think [DataCamp](https://www.datacamp.com) is one of the best place to learn and practice Data Science fundamentals and related tools.
 
@@ -32,7 +32,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/649ae12dcdd6a74241be7b418bedc4c0d3567c1f)</sub>
 
 - [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-    - <sub>[My My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/271e84307c14721709f0a64e9fa2fd5e43bcd2c3)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/271e84307c14721709f0a64e9fa2fd5e43bcd2c3)</sub>
 
 ## R Language
 
