@@ -6,7 +6,7 @@ I've subscribed for 3 months and **enjoyed the maximum I could**. Watching the v
 
 My DataCamp profile link is [https://www.datacamp.com/profile/julianomacielferreira](https://www.datacamp.com/profile/julianomacielferreira)
 
-**In this moment I'm not working professionally as a Data-\*[Analyst, Engineer, Sciencist]** or using all the knowledge and tools I've learned from them, but I highly recommend people make a subscription and give a try.
+**In this moment I'm not working professionally as a Data-[Analyst, Engineer, Sciencist]** or using all the knowledge and tools I've learned from them, but I highly recommend people make a subscription and give a try.
 They have real challenging exercises and projects with a strong pedagogy and best learn practices.
 
 If you are a very curious person like me, I think [DataCamp](https://www.datacamp.com) is one of the best place to learn and practice Data Science fundamentals and related tools.
