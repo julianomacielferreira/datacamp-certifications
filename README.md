@@ -2,7 +2,7 @@
 
 This is a repository to show the certifications of courses I made at [DataCamp](https://www.datacamp.com).
 
-**I've subscribed [DataCamp](https://www.datacamp.com/pricing) for 3 months and enjoyed the maximum I could**. Watching the videos and doing a lot of the exercises (some are very funny, I have to say).
+**I've subscribed [DataCamp](https://www.datacamp.com/pricing) for 3 months and enjoyed the maximum I could**. Watching the videos and doing a lot of exercises (some are very funny, I have to say).
 
 My DataCamp profile link is [https://www.datacamp.com/profile/julianomacielferreira](https://www.datacamp.com/profile/julianomacielferreira)
 
