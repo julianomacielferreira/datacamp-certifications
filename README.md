@@ -76,11 +76,13 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
     - [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
     - [Statistics](https://en.wikipedia.org/wiki/Statistics)
     - [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Python](https://www.python.org/)
 - [Pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 - [NumPy - package for scientific computing with Python](https://numpy.org/)
 - [R Language](https://www.r-project.org/)
 - [R Studio](https://www.rstudio.com/)
+- [Git](https://git-scm.com/)
 
 # Screenshots
 
