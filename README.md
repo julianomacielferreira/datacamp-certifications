@@ -7,6 +7,7 @@ This is a repository to show the certifications of courses I made at [DataCamp](
 My DataCamp profile link is [https://www.datacamp.com/profile/julianomacielferreira](https://www.datacamp.com/profile/julianomacielferreira)
 
 **In this moment I'm not working professionally as a Data-[Analyst, Engineer, Sciencist]** or using all the knowledge and tools I've learned from them, but I highly recommend people make a subscription and give a try.
+
 In general, It'll improve your problem solving skills and they have real challenging exercises / projects with a strong pedagogy and best learn practices.
 
 If you are a very curious person like me, I think [DataCamp](https://www.datacamp.com) is one of the best places to learn and practice Data Science fundamentals and related tools.
