@@ -2,7 +2,7 @@
 
 This is a repository to show the certifications of courses I made at [DataCamp](https://www.datacamp.com).
 
-**I've subscribed [DataCamp](https://www.datacamp.com/pricing) for 3 months and enjoyed the maximum I could**. Watching the videos and doing a lot of exercises (some are very funny, I have to say).
+**I've subscribed [DataCamp](https://www.datacamp.com/pricing) for a long period of time and enjoyed the maximum I could**. Watching the videos and doing a lot of exercises (some are very funny, I have to say).
 
 My DataCamp profile link is [https://www.datacamp.com/profile/julianomacielferreira](https://www.datacamp.com/profile/julianomacielferreira)
 
@@ -42,6 +42,9 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Data Types in Python](https://www.datacamp.com/courses/data-types-in-python)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/1709a42010355aa59586854876bbade2a9c65a76?raw=1)</sub>
 
+
+- [Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/7d14a75d52923ea41820c7975439acabdd2449ad?raw=1)</sub>
 
 
 ## R Language
@@ -101,9 +104,10 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/3.png)
 ![](assets/screenshots/4.png)
 ![](assets/screenshots/5.png)
-![](assets/screenshots/6.png)
 ![](assets/screenshots/13.jpg)
 ![](assets/screenshots/14.jpg)
+![](assets/screenshots/15.jpg)
+![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
 ![](assets/screenshots/9.png)
