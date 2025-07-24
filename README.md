@@ -17,7 +17,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 
 **This repository DOES NOT CONTAIN any copy, reproduction or adaptation of the content or exercises available in the courses (free or paid) at [DataCamp](https://www.datacamp.com).** 
 
-# Courses Topics
+# Courses
 
 ## Python
 
