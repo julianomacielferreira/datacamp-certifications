@@ -61,7 +61,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/bb54f5f2afc841d009c5dea2c74b922db6b30d0c)</sub>
 
 - [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/b9e60dd0a364505b3ef3aee6c54de20b75695a9e)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/91741200e453f8ae46b35b3191c9db63f24d91b2?raw=1)</sub>
 
 - [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5749fd1f74d72d9a45c7f8376219902aedf4be4a)</sub>
@@ -110,7 +110,7 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
-![](assets/screenshots/9.png)
+![](assets/screenshots/9.jpg)
 ![](assets/screenshots/10.png)
 ![](assets/screenshots/11.png)
 ![](assets/screenshots/12.png)
