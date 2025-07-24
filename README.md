@@ -52,7 +52,10 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/46c1af03bd6be2d91dea40c0ed0c6a89f8ab8d8b?raw=1)</sub>
 
 - [Understanding Data Visualization](https://www.datacamp.com/courses/understanding-data-visualization)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/2d6d563ac858e3df60ba157bebd7589052dc141e?raw=1)</sub>    
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/2d6d563ac858e3df60ba157bebd7589052dc141e?raw=1)</sub>
+
+- [Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/b50b8d8ae38f4d305a7216d77d90b9e05b288190?raw=1)</sub>       
 
 ## R Language
 
@@ -117,6 +120,7 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/16.jpg)
 ![](assets/screenshots/17.jpg)
 ![](assets/screenshots/18.jpg)
+![](assets/screenshots/19.jpg)
 ![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
