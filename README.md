@@ -22,7 +22,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 ## Python
 
 - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/a1c737b495efe9cea99c648e5ada6b29cad6246f)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/a1c737b495efe9cea99c648e5ada6b29cad6246f?raw=1)</sub>
 
 - [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dff8042483c2d63e4fd012361f5504ae85c86497)</sub>
@@ -35,6 +35,14 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 
 - [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/271e84307c14721709f0a64e9fa2fd5e43bcd2c3)</sub>
+
+- [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/8a8b93636c821b977575b443c48ce00fca4c59f7?raw=1)</sub>    
+
+- [Data Types in Python](https://www.datacamp.com/courses/data-types-in-python)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/1709a42010355aa59586854876bbade2a9c65a76?raw=1)</sub>
+
+
 
 ## R Language
 
@@ -88,12 +96,14 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 
 # Screenshots
 
-![](assets/screenshots/1.png)
+![](assets/screenshots/1.jpg)
 ![](assets/screenshots/2.png)
 ![](assets/screenshots/3.png)
 ![](assets/screenshots/4.png)
 ![](assets/screenshots/5.png)
 ![](assets/screenshots/6.png)
+![](assets/screenshots/13.jpg)
+![](assets/screenshots/14.jpg)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
 ![](assets/screenshots/9.png)
