@@ -42,9 +42,11 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Data Types in Python](https://www.datacamp.com/courses/data-types-in-python)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/1709a42010355aa59586854876bbade2a9c65a76?raw=1)</sub>
 
-
 - [Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/7d14a75d52923ea41820c7975439acabdd2449ad?raw=1)</sub>
+
+- [Software Engineering Principles in Python](https://www.datacamp.com/courses/software-engineering-principles-in-python)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/6c21cd1e69e4f811300fbfc760dbe934926c05fc?raw=1)</sub>
 
 
 ## R Language
@@ -107,6 +109,7 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/13.jpg)
 ![](assets/screenshots/14.jpg)
 ![](assets/screenshots/15.jpg)
+![](assets/screenshots/16.jpg)
 ![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
