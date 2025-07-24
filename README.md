@@ -48,6 +48,11 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Software Engineering Principles in Python](https://www.datacamp.com/courses/software-engineering-principles-in-python)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/6c21cd1e69e4f811300fbfc760dbe934926c05fc?raw=1)</sub>
 
+- [Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/46c1af03bd6be2d91dea40c0ed0c6a89f8ab8d8b?raw=1)</sub>
+
+- [Understanding Data Visualization](https://www.datacamp.com/courses/understanding-data-visualization)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/2d6d563ac858e3df60ba157bebd7589052dc141e?raw=1)</sub>    
 
 ## R Language
 
@@ -110,6 +115,8 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/14.jpg)
 ![](assets/screenshots/15.jpg)
 ![](assets/screenshots/16.jpg)
+![](assets/screenshots/17.jpg)
+![](assets/screenshots/18.jpg)
 ![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
 ![](assets/screenshots/8.png)
