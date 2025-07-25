@@ -89,28 +89,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/e0a254afea6eeb5919620d815a90c8af2bdb64a6)</sub>
 
-# License
-
-Please see the [license agreement](https://github.com/julianomacielferreira/datacamp-certifications/blob/master/LICENSE).
-
-# References
-
-- [DataCamp](https://www.datacamp.com)
-- [Wikipedia](https://en.wikipedia.org/)
-    - [Data Science](https://en.wikipedia.org/wiki/Data_science)
-    - [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
-    - [Statistics](https://en.wikipedia.org/wiki/Statistics)
-    - [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-    - [SQL](https://en.wikipedia.org/wiki/SQL)
-- [Python](https://www.python.org/)
-- [Pandas - Python Data Analysis Library](https://pandas.pydata.org/)
-- [NumPy - package for scientific computing with Python](https://numpy.org/)
-- [Project Jupyter](https://jupyter.org/)
-- [R Language](https://www.r-project.org/)
-- [R Studio](https://www.rstudio.com/)
-- [Git](https://git-scm.com/)
-
-# Screenshots
+# Certifications
 
 ![](assets/screenshots/1.jpg)
 ![](assets/screenshots/2.png)
@@ -132,3 +111,24 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/20.jpg)
 ![](assets/screenshots/11.png)
 ![](assets/screenshots/12.png)
+
+# References
+
+- [DataCamp](https://www.datacamp.com)
+- [Wikipedia](https://en.wikipedia.org/)
+    - [Data Science](https://en.wikipedia.org/wiki/Data_science)
+    - [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
+    - [Statistics](https://en.wikipedia.org/wiki/Statistics)
+    - [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    - [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Python](https://www.python.org/)
+- [Pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+- [NumPy - package for scientific computing with Python](https://numpy.org/)
+- [Project Jupyter](https://jupyter.org/)
+- [R Language](https://www.r-project.org/)
+- [R Studio](https://www.rstudio.com/)
+- [Git](https://git-scm.com/)
+
+# License
+
+Please see the [license agreement](https://github.com/julianomacielferreira/datacamp-certifications/blob/master/LICENSE).
