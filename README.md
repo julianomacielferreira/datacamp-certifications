@@ -76,6 +76,9 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5749fd1f74d72d9a45c7f8376219902aedf4be4a)</sub>
 
+- [Data Manipulation in SQL](https://www.datacamp.com/courses/data-manipulation-in-sql)
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/b9e60dd0a364505b3ef3aee6c54de20b75695a9e?raw=1)</sub>    
+
 ## Shell Script
 
 - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
@@ -126,5 +129,6 @@ Please see the [license agreement](https://github.com/julianomacielferreira/data
 ![](assets/screenshots/8.png)
 ![](assets/screenshots/9.jpg)
 ![](assets/screenshots/10.png)
+![](assets/screenshots/20.jpg)
 ![](assets/screenshots/11.png)
 ![](assets/screenshots/12.png)
