@@ -25,16 +25,16 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/a1c737b495efe9cea99c648e5ada6b29cad6246f?raw=1)</sub>
 
 - [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dff8042483c2d63e4fd012361f5504ae85c86497)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dff8042483c2d63e4fd012361f5504ae85c86497?raw=1)</sub>
 
 - [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5fb663f5265061cecf8da1ed7bac38e2a4c85d69)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5fb663f5265061cecf8da1ed7bac38e2a4c85d69?raw=1)</sub>
 
 - [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/649ae12dcdd6a74241be7b418bedc4c0d3567c1f)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/649ae12dcdd6a74241be7b418bedc4c0d3567c1f?raw=1)</sub>
 
 - [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/271e84307c14721709f0a64e9fa2fd5e43bcd2c3)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/271e84307c14721709f0a64e9fa2fd5e43bcd2c3?raw=1)</sub>
 
 - [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/8a8b93636c821b977575b443c48ce00fca4c59f7?raw=1)</sub>    
@@ -60,34 +60,34 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 ## R Language
 
 - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dd4f14a631789f3c530e6ed39390a859cdd03783)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dd4f14a631789f3c530e6ed39390a859cdd03783?raw=1)</sub>
 
 - [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/1f97c8f9424d374269ea3b4b493fa8deb3d8643b)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/1f97c8f9424d374269ea3b4b493fa8deb3d8643b?raw=1)</sub>
 
 ## SQL
 
 - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/bb54f5f2afc841d009c5dea2c74b922db6b30d0c)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/bb54f5f2afc841d009c5dea2c74b922db6b30d0c?raw=1)</sub>
 
 - [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/91741200e453f8ae46b35b3191c9db63f24d91b2?raw=1)</sub>
 
 - [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5749fd1f74d72d9a45c7f8376219902aedf4be4a)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5749fd1f74d72d9a45c7f8376219902aedf4be4a?raw=1)</sub>
 
 - [Data Manipulation in SQL](https://www.datacamp.com/courses/data-manipulation-in-sql)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/b9e60dd0a364505b3ef3aee6c54de20b75695a9e?raw=1)</sub>    
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/b9e60dd0a364505b3ef3aee6c54de20b75695a9e?raw=1?raw=1)</sub>    
 
 ## Shell Script
 
 - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/378328f64bfd40ee29d65b53782c74ec6f13e6e1)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/378328f64bfd40ee29d65b53782c74ec6f13e6e1?raw=1)</sub>
 
 ## Git
 
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/e0a254afea6eeb5919620d815a90c8af2bdb64a6)</sub>
+    - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/e0a254afea6eeb5919620d815a90c8af2bdb64a6?raw=1)</sub>
 
 # Certifications
 
