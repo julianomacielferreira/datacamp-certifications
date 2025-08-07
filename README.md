@@ -27,7 +27,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 - [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/dff8042483c2d63e4fd012361f5504ae85c86497?raw=1)</sub>
 
-- [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [Introduction to Functions in Python](https://www.datacamp.com/courses/introduction-to-functions-in-python)
     - <sub>[My Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/5fb663f5265061cecf8da1ed7bac38e2a4c85d69?raw=1)</sub>
 
 - [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
@@ -93,7 +93,7 @@ If you are a very curious person like me, I think [DataCamp](https://www.datacam
 
 ![](assets/screenshots/1.jpg)
 ![](assets/screenshots/2.jpg)
-![](assets/screenshots/3.png)
+![](assets/screenshots/3.jpg)
 ![](assets/screenshots/4.png)
 ![](assets/screenshots/5.png)
 ![](assets/screenshots/13.jpg)
